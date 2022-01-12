@@ -8,4 +8,4 @@ const options = {
     trailingComma: 'none'
 }
 
-moduke.exports = options
+module.exports = options

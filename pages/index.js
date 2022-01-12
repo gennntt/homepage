@@ -55,7 +55,7 @@ const Page =  () => {
           Work
         </Heading>
         <Paragraph>
-         I am a full-stack developer currently working at Elkos Group. My workflow consists of working mainly with : HTML5, CSS, Bootstrap, PHP, mySQL, Laravel. I've finished studying Computer Science and Engineering at UBT College. Friends call me funny, lively .
+         I am a full-stack developer currently working at Elkos Group. My workflow consists of working mainly with : HTML5, CSS, Bootstrap, PHP, mySQL, Laravel. I've finished studying Computer Science and Engineering at UBT College. Friends call me funny, lively and socialable .
         </Paragraph>
         <Box align="center" my={4}>
           <NextLink href="/works">
